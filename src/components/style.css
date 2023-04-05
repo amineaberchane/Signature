@@ -1,0 +1,17 @@
+*{
+    background-color: blueviolet;
+}
+.subtitle{
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 2rem 0;
+}
+
+input{
+    background-color: navajowhite;
+}
+footer{
+    justify-content: space-around;
+    position: relative;
+    top: 40vh;
+}
